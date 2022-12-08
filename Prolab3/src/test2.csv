@@ -1,0 +1,47 @@
+id;İsim;Soyisim;Doğum Tarihi;Eşi;Anne Adı;Baba Adı;Kan Grubu;Meslek;Medeni Hali;Kızlık Soyismi;Cinsiyet
+1;Emin;Kaya;7/2/46;Sena Kaya;Ayşe;Mehmet;0(-);Marangoz;Evli;;Erkek
+2;Sena;Kaya;1/26/49;Emin Kaya;Hatice;Ali;A(-);Ev Hanımı;Evli;Çetin;Kadın
+3;Nazlı;Demir;2/21/69;Uğur Demir;Sena;Emin;A(-);Ev Hanımı;Evli;Kaya;Kadın
+4;Mehmet;Kaya;4/14/71;Zeynep  Kılıç;Sena;Emin;0(-);Marangoz;Evli;;Erkek
+5;Mustafa;Kaya;8/4/73;Elif;Sena;Emin;0(-);Marangoz;Evli;;Erkek
+6;Defne;Çelik;7/8/93;Ahmet Çelik;Nazlı;Uğur;AB(+);Mühendis;Evli;Demir;Kadın
+7;Ömer;Demir;4/19/95;Eda;Nazlı;Uğur;A(+);Doktor;Evli;;Erkek
+8;Emin;Kaya;2/2/00;;Zeynep;Mehmet;0(+);Marangoz;Bekar;;Erkek
+9;Hatice;Kaya;9/17/03;;Zeynep;Mehmet;A(+);Öğrenci;Bekar;;Kadın
+10;Emre;Kaya;4/5/06;;Zeynep;Mehmet;0(+);Öğrenci;Bekar;;Erkek
+11;Alper;Kaya;10/10/04;;Elif;Mustafa;0(-);Öğrenci;Bekar;;Erkek
+12;İrem;Çelik;9/9/09;;Defne;Ahmet;A(+);Öğrenci;Bekar;;Kadın
+13;Ali;Demir;8/6/21;;Eda;Ömer;0(+);;Bekar;;Erkek
+
+id;İsim;Soyisim;Doğum Tarihi;Eşi;Anne Adı;Baba Adı;Kan Grubu;Meslek;Medeni Hali;Kızlık Soyismi;Cinsiyet
+14;Uğur;Demir;7/4/67;Nazlı Kaya;Fatma;Bayram;B(-);Öğretmen;Evli;;Erkek
+6;Defne;Çelik;7/8/93;Ahmet Çelik;Nazlı;Uğur;AB(+);Mühendis;Evli;Demir;Kadın
+7;Ömer;Demir;4/19/95;Eda Kara;Nazlı;Uğur;A(+);Doktor;Evli;;Erkek
+12;İrem;Çelik;9/9/09;;Defne;Ahmet;A(+);Öğrenci;Bekar;;Kadın
+13;Ali;Demir;8/6/21;;Eda;Ömer;0(+);;Bekar;;Erkek
+
+
+id;İsim;Soyisim;Doğum Tarihi;Eşi;Anne Adı;Baba Adı;Kan Grubu;Meslek;Medeni Hali;Kızlık Soyismi;Cinsiyet
+15;Furkan;Çelik;1/1/41;Zeynep;Feride;Yaşar;0(-);Terzi;Evli;;Erkek
+16;Zeynep;Çelik;6/7/45;Furkan;Hayriye;Feyzi;AB(+);Ev Hanımı;Evli;Koç;Kadın
+17;Halime;Kurt;5/5/65;Faruk;Zeynep;Furkan;AB(+);Ev Hanımı;Evli;Çelik;Kadın
+18;Gül;Özkan;2/4/68;Hasan;Zeynep;Furkan;0(+);Muhasebeci;Evli;Çelik;Kadın
+19;Bekir;Çelik;10/11/70;Kübra;Zeynep;Furkan;B(-);Terzi;Evli;;Erkek
+20;Semra;Aslan;11/10/88;Mahmut Aslan;Halime;Faruk;B(-);Ev Hanımı;Evli;Çelik;Kadın
+21;Yaşar;Kurt;8/9/90;Esra;Halime;Faruk;AB(+);Mühendis;Evli;;Erkek
+22;Orhan;Özkan;1/2/90;Feride;Gül;Hasan;0(-);Terzi;Evli;;Erkek
+23;Necmi;Özkan;2/7/92;Gökçe;Gül;Hasan;A(+);Polis;Evli;;Erkek
+24;Ahmet;Çelik;06.27.1992;Defne;Kübra;Bekir;B(-);Avukat;Evli;;Erkek
+12;İrem;Çelik;9/9/09;;Defne;Ahmet;A(+);Öğrenci;Bekar;;Kadın
+25;Yusuf;Özkan;4/9/16;;Gökçe;Necmi;0(+);;Bekar;;Erkek
+26;Furkan;Özkan;11.29.2018;;Gökçe;Necmi;A(+);;Bekar;;Erkek
+27;Merve;Özkan;10/10/17;;Feride;Orhan;B(-);;Bekar;;Kadın
+28;Ahmet;Kurt;4/8/14;;Esra;Yaşar;A(+);Öğrenci;Bekar;;Erkek
+29;Almila;Kurt;02.14.2016;;Esra;Yaşar;AB(+);;Bekar;;Kadın
+30;Yılmaz;Aslan;10/17/12;;Semra;Mahmut;0(-);Öğrenci;Bekar;;Erkek
+
+id;İsim;Soyisim;Doğum Tarihi;Eşi;Anne Adı;Baba Adı;Kan Grubu;Meslek;Medeni Hali;Kızlık Soyismi;Cinsiyet
+31;Mahmut;Aslan;10/10/86;Semra;Funda;Yakup;0(+);İşçi;Evli;;Erkek
+30;Yılmaz;Aslan;10/17/12;;Semra;Mahmut;0(-);Öğrenci;Evli;;Erkek
+32;Yıldız;Aslan;6/8/94;;Funda;Yakup;AB(+);Öğretmen;Dul;;Kadın
+33;İrem;Şimşek;4/4/14;;Yıldız;Ahmet;0(-);Öğrenci;Bekar;;Kadın
